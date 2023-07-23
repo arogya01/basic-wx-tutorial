@@ -1,7 +1,8 @@
+#include <iostream>
 #include <wx/wx.h>
 
 using namespace std;
 
-int main()
+class MyApp : public wxApp
 {
 }
